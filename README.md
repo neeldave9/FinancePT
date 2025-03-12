@@ -1,3 +1,3 @@
 # FinancePT
+![architecture](https://github.com/user-attachments/assets/e0051019-be2f-4012-b179-9fb61e8a8521)
 
-![financept drawio](https://github.com/user-attachments/assets/d6a49e14-8a07-4b15-a098-1ea740fde13b)
